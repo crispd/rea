@@ -1,5 +1,5 @@
 # Description:
-# Beam properties and device ratios.# BCB to RFQ entrance.
+# Beam properties and device ratios.# RFQ to GPL line (BTS33)
 #
 PV,READBACK,DELTA,READ_ONLY
 REA_EXP:LINE,,,true
