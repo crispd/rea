@@ -1,5 +1,5 @@
 # Description:
-# Beam properties and device ratios.# BCB to RFQ entrance.
+# Beam properties and device ratios.# ISRC2 to RFQ entrance.
 #
 PV,READBACK,DELTA,READ_ONLY
 REA:EBIT1SRC_2,,,true
