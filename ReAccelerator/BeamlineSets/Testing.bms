@@ -1,0 +1,5 @@
+# Description:
+# Testing saveset
+#
+PV,READBACK,DELTA,READ_ONLY
+REA_BTS23:BEAM:EPERU_BOOK,,,false
