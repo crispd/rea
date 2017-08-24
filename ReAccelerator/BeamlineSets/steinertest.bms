@@ -1,0 +1,6 @@
+# Description:
+# 
+#
+PV,READBACK,DELTA,READ_ONLY
+REA_EBIT1:BEAM:HV_BOOK,,,false
+REA_BTS19:BEAM:HV_BOOK,,,false
