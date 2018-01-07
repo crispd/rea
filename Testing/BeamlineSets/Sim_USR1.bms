@@ -1,5 +1,5 @@
 # Description:
-# Simulated USR1
+# Simulation USR1
 #
 PV,READBACK,DELTA,READ_ONLY
 USR1_SIM:SRC_01:I_CSET,USR1_SIM:SRC_01:I_RD,,false
